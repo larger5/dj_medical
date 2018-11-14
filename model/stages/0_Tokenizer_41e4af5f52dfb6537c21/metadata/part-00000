@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.Tokenizer","timestamp":1542040888508,"sparkVersion":"2.3.1","uid":"Tokenizer_41e4af5f52dfb6537c21","paramMap":{"inputCol":"symptom","outputCol":"words"}}
